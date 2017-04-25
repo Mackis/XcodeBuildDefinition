@@ -7,4 +7,4 @@ This repository contains an example XCode build definition for the blog post [De
 
 ## Compatibility
 
-Verified that this repository's code works in XCode 8 with Swift 3.0
+Verified that this build definition supports in XCode 8 with Swift 3.0
